@@ -4,7 +4,7 @@ On pressing the button named "ROLL DICE" the app randomly shows a number on the 
 
 ---
 
-App link - https://drive.google.com/file/d/1SRTPh4hg-Ky0ZxpxQVh6JYBUBQjiHigy/view?usp=sharing
+App link - [click here](https://drive.google.com/file/d/1SRTPh4hg-Ky0ZxpxQVh6JYBUBQjiHigy/view?usp=sharing)
 
 ---
 
